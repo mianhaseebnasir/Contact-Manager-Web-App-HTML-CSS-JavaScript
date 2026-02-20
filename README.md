@@ -26,9 +26,13 @@ Beginner-friendly project
 📂 Project Structure
 
 📁 Contact-Manager
+
 │── index.html
+
 │── style.css
+
 │── script.js
+
 │── README.md
 
 
